@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tegan.cadney@gmail.com
+	name = Tegan Cadney-Gray
